@@ -1,12 +1,13 @@
  <!--Desenvolvido por Lucas De Carvalho Praxedes-->
   <!--DATA 10/09/2024 -->
   <!--Professor: Luís Alberto Pires de Oliveira-->
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conversão de Temperatura</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h2>Conversão de Temperatura (Fahrenheit para Celsius)</h2>
